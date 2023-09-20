@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aanbarasan
 - 👀 I’m interested in open source apps 
-- 💞️ I’m looking to collaborate on New business Ideas. 
+- 💞️ I’m looking to collaborate on New business ideas. 
 - 📫 How to reach me https://www.linkedin.com/in/anbarasanlee/
 
 ###Projects
